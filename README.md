@@ -1,4 +1,4 @@
-# esp2866-phone-deauth-at-a-distance
+# esp8266-phone-deauth-at-a-distance
 
 First: Must install deauth using: http://deauther.com/docs/about
 
